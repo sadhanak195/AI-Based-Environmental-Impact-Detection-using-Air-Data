@@ -1,21 +1,6 @@
-# 🏭 Industrial AQI Predictor
+# Industrial AQI Predictor
 
 A Streamlit app that predicts Air Quality Index (AQI) using Polynomial Regression (Degree-3 + Ridge Regularization).
-
----
-
-## 📁 Folder Structure
-
-```
-pollution_predictor/
-│
-├── app.py                  ← Main Streamlit application
-├── requirements.txt        ← Python dependencies
-├── README.md               ← This file
-│
-└── model/
-    └── pollution_model.pkl ← ⬅ Place your trained model here
-```
 
 ---
 
